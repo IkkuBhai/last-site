@@ -5,9 +5,7 @@ import { asian2 } from "./images";
 
 function Fourth() {
   return (
-    <div className="nurture">
-
-     
+    <div className="nurture">    
         <div className="nurture-01">
           <img src={asian1} />
         </div>
