@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import {map} from './images';
-import {iitmrs} from './images';
-import {iitmgate} from './images';
+import {map} from '../images/map.jpg';
+import {iitmrs} from '../images/iitmrs.jpg';
+import {iitmgate} from '../images/iitmgate.jpg';
 
 function Fifth()
 {

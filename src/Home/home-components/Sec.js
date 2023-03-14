@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {third} from "./images"
+import {third} from "./imgs"
 
 function Sec()
 {
