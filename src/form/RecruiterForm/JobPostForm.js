@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import './JobPostForm.css';
-import {location} from '../Constraints/Arrays'; 
+import {location} from '../Constraints/Arrays';
 import { jobRole } from '../Constraints/Arrays';
 
 import { primarySkills } from '../Constraints/Arrays';
